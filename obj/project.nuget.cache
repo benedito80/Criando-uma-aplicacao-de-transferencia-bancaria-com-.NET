@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bDsK27iW5WDN9Zj8DpjrF36mFZQ3+/6shBfYEmpRTC1QH3be5a3kRj44DsAgCaxG0iyg2yF+cIX5ttKCxCb2Mw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\dio-dotnet-poo-lab-1-master\\DIO.Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DEV FULL STACK\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\DEV FULL STACK\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\DEV FULL STACK\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\DEV FULL STACK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
